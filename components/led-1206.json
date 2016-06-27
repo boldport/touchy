@@ -1,0 +1,89 @@
+{
+"pins":
+  {
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "smd", 
+        "location": [-2.3, 0],
+        "rotate": 180
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "smd", 
+        "location": [2.3, 0],
+        "rotate": 0
+      }
+    },
+  "DRILL":
+    {	
+      "layout": 
+      {
+        "pad": "drill",
+        "location": [0, 0]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "path",
+          "layers": ["top"],
+          "value": "m 0,0 0,1.750001 z m 1.999999,0 0,1.750001 L 0,0.875001 z",
+          "location": [0, -0.9]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "smd":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 2,
+          "height": 2,
+          "radii": {
+            "bl": 0.3, 
+            "br": 0, 
+            "tl": 0.3, 
+            "tr": 0
+          }
+        }
+      ]
+    },
+    "drill":
+    {
+      "shapes":
+      [
+	{
+          "type": "circle",
+	  "layers": ["top", "bottom"],
+	  "style": "fill",
+          "diameter": 0.5,
+          "buffer-to-pour": 0.8,
+          "solderpaste": {}
+        }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1.8
+        }
+      ]
+    }
+  }
+}
