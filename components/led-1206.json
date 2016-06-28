@@ -6,7 +6,7 @@
       "layout": 
       {
         "pad": "smd", 
-        "location": [-2.3, 0],
+        "location": [-1.8, 0],
         "rotate": 180
       }
     },
@@ -15,7 +15,7 @@
       "layout": 
       {
         "pad": "smd", 
-        "location": [2.3, 0],
+        "location": [1.8, 0],
         "rotate": 0
       }
     },
@@ -42,6 +42,18 @@
           "layers": ["top"],
           "value": "m 0,0 0,1.750001 z m 1.999999,0 0,1.750001 L 0,0.875001 z",
           "location": [0, -0.9]
+        },
+        {
+          "type": "rect",
+          "style": "stroke",
+          "stroke-width": 0.1,
+          "width": 3.2,
+          "height": 1.6
+        },
+        {
+          "type": "circle",
+          "style": "fill",
+          "diameter": 1.6
         }
       ]
     }
@@ -54,13 +66,13 @@
       [
         {
           "type": "rect",
-          "width": 2,
-          "height": 2,
+          "width": 1.5,
+          "height": 1.6,
           "radii": {
-            "bl": 0.3, 
-            "br": 0, 
-            "tl": 0.3, 
-            "tr": 0
+            "bl": 0, 
+            "br": 0.3, 
+            "tl": 0, 
+            "tr": 0.3
           }
         }
       ]

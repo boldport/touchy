@@ -64,7 +64,8 @@
         {
           "type": "circle",
           "style": "fill",
-          "diameter": 10
+          "diameter": 10,
+          "buffer-to-pour": 1
         }
       ]      
     },
@@ -75,7 +76,8 @@
         {
           "type": "circle",
           "style": "fill",
-          "diameter": 5.5
+          "diameter": 5.5,
+          "buffer-to-pour": 1
         }
       ]      
     }
