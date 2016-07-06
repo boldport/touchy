@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "1.5mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2.54mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "GND\nC2D\\P2.7\nC2CK\\RSTb\nVext\nP2.7\nP1.4\nP1.5\nP1.3\nP1.2\nP1.1\nP0.5\nP0.6"
+        }
+      ]
+    }
+  }  
+}
