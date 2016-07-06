@@ -27,8 +27,8 @@
       [
         {
           "type": "rect",
-          "width": 0.3, 
-          "height": 1,
+          "width": 0.4, 
+          "height": 1.4,
           "location": [0, 0],
           "style": "fill"
         }
