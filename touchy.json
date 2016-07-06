@@ -23,24 +23,40 @@
       }
     }, 
     "C1": {
-      "footprint": "0805", 
+      "footprint": "0805-cap", 
       "layer": "bottom", 
       "location": [
         -23.951108, 
         0
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            1.693333
+          ]
+        }
+      }
     }, 
     "C2": {
-      "footprint": "0805", 
+      "footprint": "0805-cap", 
       "layer": "bottom", 
       "location": [
         -4.146671, 
         0
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            1.693333
+          ]
+        }
+      }
     }, 
     "IC1": {
       "footprint": "EFM8SB10F8G-QSOP24", 
@@ -50,7 +66,16 @@
         0
       ], 
       "rotate": 90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -0.3375, 
+            -0.0
+          ], 
+          "rotate": -90
+        }
+      }
     }, 
     "J1": {
       "footprint": "1x12_smd_pin", 
@@ -60,7 +85,15 @@
         0
       ], 
       "rotate": -90, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0.0, 
+            3.386664
+          ]
+        }
+      }
     }, 
     "J2": {
       "footprint": "solder-blob-jumper", 
@@ -70,7 +103,12 @@
         -0.049171
       ], 
       "rotate": -30, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "LED1": {
       "footprint": "led-1206", 
@@ -79,8 +117,13 @@
         -27.871112, 
         12.015554
       ], 
-      "rotate": 0, 
-      "show": true
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "LED2": {
       "footprint": "led-1206", 
@@ -89,8 +132,13 @@
         -27.871112, 
         7.208796
       ], 
-      "rotate": 0, 
-      "show": true
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "LED3": {
       "footprint": "led-1206", 
@@ -99,8 +147,13 @@
         -27.871112, 
         2.402697
       ], 
-      "rotate": 0, 
-      "show": true
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "LED4": {
       "footprint": "led-1206", 
@@ -109,8 +162,13 @@
         -27.871112, 
         -2.402745
       ], 
-      "rotate": 0, 
-      "show": true
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "LED5": {
       "footprint": "led-1206", 
@@ -119,8 +177,13 @@
         -27.871112, 
         -7.208844
       ], 
-      "rotate": 0, 
-      "show": true
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "LED6": {
       "footprint": "led-1206", 
@@ -129,8 +192,13 @@
         -27.871112, 
         -12.015554
       ], 
-      "rotate": 0, 
-      "show": true
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
     }, 
     "R1": {
       "footprint": "0805", 
@@ -140,7 +208,15 @@
         9.612504
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.96223, 
+            0
+          ]
+        }
+      }
     }, 
     "R2": {
       "footprint": "0805", 
@@ -150,7 +226,15 @@
         4.805747
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.96223, 
+            0
+          ]
+        }
+      }
     }, 
     "R3": {
       "footprint": "0805", 
@@ -160,7 +244,15 @@
         1.364444
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            1.693333
+          ]
+        }
+      }
     }, 
     "R4": {
       "footprint": "0805", 
@@ -170,7 +262,15 @@
         -1.364444
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -1.693333
+          ]
+        }
+      }
     }, 
     "R5": {
       "footprint": "0805", 
@@ -180,7 +280,15 @@
         -4.805794
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.96223, 
+            0
+          ]
+        }
+      }
     }, 
     "R6": {
       "footprint": "0805", 
@@ -190,7 +298,15 @@
         -9.612504
       ], 
       "rotate": 0, 
-      "show": true
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.96223, 
+            0
+          ]
+        }
+      }
     }
   }, 
   "config": {
@@ -199,7 +315,7 @@
     "no-drill-index": false, 
     "no-flashes": false, 
     "no-layer-index": false, 
-    "rev": "second", 
+    "rev": "first", 
     "style-layout": "default", 
     "units": "mm"
   }, 
@@ -298,12 +414,30 @@
       ], 
       "show": true
     }, 
+    "BTN": {
+      "footprint": "button-legend", 
+      "layer": "top", 
+      "location": [
+        0.565, 
+        0
+      ], 
+      "show": true
+    }, 
     "PRS": {
       "footprint": "pours", 
       "layer": "top", 
       "location": [
         0, 
         0
+      ], 
+      "show": true
+    }, 
+    "WHL": {
+      "footprint": "wheel-legend", 
+      "layer": "top", 
+      "location": [
+        39.679571, 
+        -0.00213
       ], 
       "show": true
     }
