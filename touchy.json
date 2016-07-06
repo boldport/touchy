@@ -409,7 +409,7 @@
       "footprint": "boldport-logo-b", 
       "layer": "bottom", 
       "location": [
-        -47.742224, 
+        -51, 
         0
       ], 
       "show": true
@@ -420,6 +420,15 @@
       "location": [
         0.565, 
         0
+      ], 
+      "show": true
+    }, 
+    "PLD": {
+      "footprint": "pin-legend", 
+      "layer": "bottom", 
+      "location": [
+        -45.939925, 
+        -2.547457
       ], 
       "show": true
     }, 
@@ -437,7 +446,7 @@
       "layer": "top", 
       "location": [
         39.679571, 
-        -0.00213
+        0
       ], 
       "show": true
     }
