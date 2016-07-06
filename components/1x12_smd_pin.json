@@ -104,28 +104,12 @@
     {
       "shapes":
       [
-        {
-	  "type": "rect",
-	  "layers": ["top"],
-	  "width": 6,
-          "height": 6,
-          "location": [0, 0],
-          "style": "stroke"
-	}
       ]
     },
     "assembly":
     {
       "shapes":
       [
-        {
-          "type": "rect",
-	  "layers": ["top"],
-          "width": 5,
-	  "style": "stroke",
-          "height": 5,
-          "offset": [0, 0]
-        }
       ]
     }
   },
