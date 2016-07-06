@@ -32,6 +32,22 @@
   {
     "silkscreen":
     {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "style": "fill",
+          "width": 0.3,
+          "height": 1.6,
+          "location": [-3.0,0],
+          "radii": {
+            "bl": 0.1, 
+            "br": 0, 
+            "tl": 0.1, 
+            "tr": 0
+          }
+        }
+      ]  
     },
     "assembly":
     {
