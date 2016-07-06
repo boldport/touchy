@@ -228,8 +228,14 @@
           "type": "rect",
           "layers": ["top"],
           "width": 4.4,
-          "height": 9.15,
-          "offset": [0, 0] 
+          "height": 9.15
+        },
+        { 
+          "type": "circle",
+          "layers": ["top"],
+          "style": "fill",
+          "diameter": 0.5,
+          "location": [-2.7,4.35]
         }
       ]
     },
