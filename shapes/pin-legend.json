@@ -17,7 +17,7 @@
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 
-          "value": "GND\nC2D\\P2.7\nC2CK\\RSTb\nVext\nP2.7\nP1.4\nP1.5\nP1.3\nP1.2\nP1.1\nP0.5\nP0.6"
+          "value": "GND\nGND\nVext\nP0.7\nP1.0\nP1.7\nP1.6\nP0.4\\TX\nP0.5\\RX\nP2.7\\C2D\nRSTb\\C2CK\nP0.0"
         }
       ]
     }
