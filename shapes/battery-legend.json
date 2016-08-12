@@ -1,0 +1,41 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "type": "circle",
+          "diameter": 17.6,
+          "stroke-width": 0.6,
+          "style": "stroke"
+        },
+        {
+          "type": "circle",
+          "diameter": 15.95,
+          "stroke-width": 0.4,
+          "style": "stroke"
+        },
+        {
+          "type": "circle",
+          "diameter": 14.5,
+          "stroke-width": 0.28,
+          "style": "stroke"
+        },
+        {
+          "type": "circle",
+          "diameter": 13.3,
+          "stroke-width": 0.2,
+          "style": "stroke"
+        },
+        {
+          "type": "path",
+          "value": "M -50.631025,-5.1746548e-7 -54.738204,2.3712808 l 0,-4.7425627 z",
+          "location": [-12.0,0],
+          "style": "fill"
+        }
+      ]
+    }
+  }  
+}
