@@ -24,9 +24,9 @@
         {
           "font-family": "UbuntuMono-R-webfont", 
           "layers": ["top"],
-          "font-size": "1.5mm", 
+          "font-size": "1.8mm", 
           "letter-spacing": "0mm", 
-          "line-height": "1.5mm", 
+          "line-height": "1.8mm", 
           "location": [0,2.5],
           "rotate": 0, 
           "style": "fill", 
