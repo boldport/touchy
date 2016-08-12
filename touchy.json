@@ -58,7 +58,7 @@
         }
       }
     }, 
-    "IC1": {
+    "EFM8SB1": {
       "footprint": "EFM8SB10F8G-QSOP24", 
       "layer": "top", 
       "location": [
@@ -70,10 +70,10 @@
       "silkscreen": {
         "refdef": {
           "location": [
-            -0.3375, 
-            -0.0
+            0, 
+            0
           ], 
-          "rotate": -90
+          "rotate": 90
         }
       }
     }, 
@@ -99,7 +99,7 @@
       "footprint": "solder-blob-jumper", 
       "layer": "bottom", 
       "location": [
-        -29.997386, 
+        -28.868498, 
         11.529161
       ], 
       "rotate": -90, 
@@ -440,7 +440,7 @@
         -25.228946, 
         0
       ], 
-      "scale": 0.4, 
+      "scale": 0.35, 
       "show": true
     }, 
     "BTN": {
@@ -450,6 +450,16 @@
         0.565, 
         0
       ], 
+      "show": true
+    }, 
+    "LNS": {
+      "footprint": "lines", 
+      "layer": "bottom", 
+      "location": [
+        10.550448, 
+        0
+      ], 
+      "rotate": 180, 
       "show": true
     }, 
     "OC": {
@@ -467,7 +477,7 @@
       "layer": "bottom", 
       "location": [
         -45.939925, 
-        -4.00979
+        -3.5431
       ], 
       "show": true
     }, 
@@ -485,6 +495,15 @@
       "layer": "top", 
       "location": [
         39.679571, 
+        0
+      ], 
+      "show": true
+    },
+    "BTL": {
+      "footprint": "battery-legend", 
+      "layer": "top",
+      "location": [
+        -40.656631, 
         0
       ], 
       "show": true
