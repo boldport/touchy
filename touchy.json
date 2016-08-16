@@ -443,6 +443,15 @@
       "scale": 0.35, 
       "show": true
     }, 
+    "BTL": {
+      "footprint": "battery-legend", 
+      "layer": "top", 
+      "location": [
+        -40.656631, 
+        0
+      ], 
+      "show": true
+    }, 
     "BTN": {
       "footprint": "button-legend", 
       "layer": "top", 
@@ -495,15 +504,6 @@
       "layer": "top", 
       "location": [
         39.679571, 
-        0
-      ], 
-      "show": true
-    },
-    "BTL": {
-      "footprint": "battery-legend", 
-      "layer": "top",
-      "location": [
-        -40.656631, 
         0
       ], 
       "show": true
